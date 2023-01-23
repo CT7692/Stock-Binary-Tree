@@ -1,0 +1,24 @@
+MINE
+MI
+222
+General Electric
+GE
+12.54
+Apple
+AAPL
+121.73
+Intel
+INTC
+60.78
+Ford Motor
+F
+11.7
+Tesla
+TSLA
+564.33
+Advanced Micro Devices
+AMD
+84.51
+Motorola Inc.
+MOT
+17.49
